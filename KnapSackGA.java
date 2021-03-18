@@ -1,3 +1,7 @@
+/*
+* This code is a slight modification of the program written by user edervishaj available here: https://github.com/edervishaj/genetic-knapsack 
+* for the purpose of completing an assignment
+*/
 import java.util.ArrayList;
 import java.util.Random;
 
